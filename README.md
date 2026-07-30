@@ -1,24 +1,29 @@
 # 🏥 Hospital Excel Dashboard
-![Hospital Dashboard](Dashboard_Screenshot.png)
+
+![Hospital Dashboard](IMG-20260730-WA0011.jpg)
+
+### By Riya Basera
+
 ## 📌 Project Overview
-This Hospital Excel Dashboard is built using Microsoft Excel to analyze hospital data through interactive Pivot Tables and Charts. The dashboard provides insights into hospital performance, billing, patient distribution, payment status, and monthly trends.
+
+This Hospital Excel Dashboard is developed using Microsoft Excel to analyze hospital data through interactive Pivot Tables and Pivot Charts. It provides insights into patient records, billing, payment status, gender distribution, disease analysis, and monthly trends.
 
 ## 📊 Dashboard Features
 - Department-wise Bill Amount Analysis
 - Disease-wise Patient Count
 - Gender Distribution
 - Payment Status (Paid vs Pending)
-- Monthly Revenue Trend
-- Monthly Billing Analysis
+- Monthly Billing Trend
 - Interactive Pivot Charts
 
-## 🛠 Tools Used
+## 🛠️ Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Data Cleaning
+- Data Analysis
 - Data Visualization
-- Excel Dashboard Design
+- Dashboard Design
 
 ## 📈 Charts Included
 - Column Chart
@@ -28,27 +33,14 @@ This Hospital Excel Dashboard is built using Microsoft Excel to analyze hospital
 - Line Chart
 - Area Chart
 
-## 📷 Dashboard Preview
+## 📂 Project Files
+- Hospital_Dashboard.xlsx
+- IMG-20260730-WA0011.jpg
+- README.md
 
-
-## 🎯 Key Insights
-- Compare bill amounts across departments.
-- Analyze patient distribution by disease.
-- Track payment status.
-- Monitor monthly revenue trends.
-- Understand gender distribution of patients.
-
-## 📂 Files
-- `Hospital_Dashboard.xlsx` – Complete Excel dashboard with data.
-- `Dashboard_Screenshot.png` – Dashboard preview image.
-- `README.md` – Project documentation.
-
-## 🚀 Skills Demonstrated
-- Excel Dashboard Development
-- Data Visualization
-- Pivot Tables & Pivot Charts
-- Business Reporting
-- Data Analysis
+## 👩‍💻 Author
+**Riya Basera**  
+**B.Tech (Data Science) | Aspiring Data Analyst**
 
 ---
-⭐ If you found this project useful, don't forget to star the repository.
+⭐ If you like this project, don't forget to **Star** this repository.
